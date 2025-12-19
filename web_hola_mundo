@@ -10,5 +10,9 @@
     <h1 style="color: red">Adios mundo!</h1>
     
     <p style="color:aqua">hola mundo!</p>
+
+    <form action="mailto:harry@potionfy.com" method="post" enctype="text/plain">
+</form>
+
 </body>
 </html>
