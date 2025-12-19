@@ -9,6 +9,5 @@
     
     <h1 style="color: red">Adios mundo!</h1>
     
-    <p style="color:aqua">hola mundo!</p>
 </body>
 </html>
